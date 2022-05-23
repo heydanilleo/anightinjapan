@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: danilleo@proton.me
 description: A blog about Japan
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: HeyDanilleo
 github_username: HeyDanilleo
 theme: minima
