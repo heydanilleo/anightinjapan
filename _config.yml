@@ -1,5 +1,6 @@
 ---
 title: A Night In Japan
+timezone: UTC
 collections:
   posts:
     title: Posts
