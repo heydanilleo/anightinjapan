@@ -1,6 +1,6 @@
 ---
 title: A Night In Japan
-timezone: Europe/Madrid
+timezone:
 collections:
   posts:
     title: Posts
